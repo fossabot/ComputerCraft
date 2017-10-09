@@ -49,7 +49,11 @@ Ensure you take regular breaks when using a computer. Only use your system, do n
 Unless otherwise specified, everything in this repository is covered by the following licence:
 
 ![Creative Commons License](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FComputerCraft.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FComputerCraft?ref=badge_shield)
 
 ***ComputerCraft Lessons*** by [Allen Heard](http://www.mrheard.co.uk) is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 Inspired by Seth B
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FComputerCraft.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FComputerCraft?ref=badge_large)
